@@ -165,10 +165,10 @@ export const products = [
   {
     name: "Microapps",
     type: "Producto propio de Lambdaeta",
-    description: "Nuestro producto propio está en preparación. Pronto compartiremos más información sobre su lanzamiento.",
-    url: null,
-    action: "Consultar sobre Microapps",
-    status: "Próximo lanzamiento",
+    description: "Herramientas pequeñas para tareas concretas: finanzas, cotizaciones, jornadas, moto, mascotas y taller. Está abierta como versión de evaluación: pruébala y cuéntanos qué te sirve.",
+    url: "https://microapps-co.vercel.app",
+    action: "Probar la versión de evaluación",
+    status: "Versión de evaluación",
     ownedByLambdaeta: true,
   },
 ];
